@@ -17,7 +17,7 @@ github_username:  leejeun1023
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: maengdev   # get one: https://disqus.com/admin/signup/
+disqus_shortname: leejeun1023   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
