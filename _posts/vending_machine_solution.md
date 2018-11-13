@@ -6,6 +6,8 @@ categories: Data_science
 permalink: /archivers/python_lecture_07
 ---
 # vending_machine_solution.md 
+
+    <img src="https://blogfiles.pstatic.net/MjAxODExMTNfMTc0/MDAxNTQyMDk2Nzk5ODA1.myvdmofDAXjb7K9AI4gOrXOPZkph3934E_ujyqS_8hIg.p7gjaALL9rtgqc_YWWMqQUKoa3GFIsoTzQhdNpkoEpUg.PNG.happiestime7/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C415.png" width="90%"></img>()
     # 물건 수급 - 판매중 상태에서 관리자 모드를 활성화 시키는 코드를 입력하면 문이 열린다.
     # 관리자 모드 - 관리자는 물품을 선택하고 해당 물품의 숫자를 보충할 수 있다. 
     # 여기에서 10개가 넘으면 저장공간이 꽉 찼다는 메세지를 보낸다. 
