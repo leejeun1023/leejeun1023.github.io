@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 13 16:14:44 2018
 
-@author: CMG-778IPG6
-"""
-import sys
-print sys.getdefaultencoding()
 # 자판기 
     # TODO: 물건 수급 - 판매중 상태에서 관리자 모드를 활성화 시키는 코드를 입력하면 문이 열린다.
     # TODO: 관리자 모드 - 관리자는 물품을 선택하고 해당 물품의 숫자를 보충할 수 있다. 
