@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "하이브리드 자동차"
+title:  "HybridCar.md"
 date:   2018-11-13 16:09:13
 categories: Data_science
+permalink: /archivers/python_lecture_08
 ---
-# 하이브리드 자동차
+# HybridCar.md
 ## 가솔린 자동차
     def class Car:
         def __init__(self, model_name):
