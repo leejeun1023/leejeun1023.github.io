@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "하이브리드 자동차"
+date:   2018-11-13 16:09:13
+categories: Data_science
+---
 # 가솔린 자동차
 class Car:
     def __init__(self, model_name):
