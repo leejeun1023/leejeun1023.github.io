@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HybridCar.md"
-date:   2018-11-13 16:09:13
+date:   2018-11-06 17:25:13
 categories: Data_science
 permalink: /archivers/python_lecture_08
 ---
