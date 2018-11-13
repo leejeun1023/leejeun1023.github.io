@@ -3,7 +3,7 @@ layout: post
 title:  "자판기 만들기"
 date:   2018-11-13 16:09:13
 categories: Data_science
-permalink: /archivers/python_lecture_07
+permalink: /archivers/python_lecture_06
 ---
 # vending_machine_solution.md 
 <img src="https://blogfiles.pstatic.net/MjAxODExMTNfMTc0/MDAxNTQyMDk2Nzk5ODA1.myvdmofDAXjb7K9AI4gOrXOPZkph3934E_ujyqS_8hIg.p7gjaALL9rtgqc_YWWMqQUKoa3GFIsoTzQhdNpkoEpUg.PNG.happiestime7/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C415.png" width="90%"></img>
