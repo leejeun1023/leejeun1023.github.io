@@ -5,7 +5,7 @@ date:   2018-11-13 16:09:13
 categories: Data_science
 ---
 # 가솔린 자동차
-class Car:
+def class Car:
     def __init__(self, model_name):
         self.model_name = model_name
     def stop(self):
@@ -20,7 +20,7 @@ class Car:
         print self.model_name + "is driving."
 
 # 전기 자동차        
-class ElectricCar:
+def class ElectricCar:
     def __init__(self, model_name):
         self.model_name = model_name  
     def stop(self):
@@ -35,7 +35,7 @@ class ElectricCar:
         print self.model_name + "is driving."
         
 # 하이브리드 자동차     
-class HybridCar(Car,ElectricCar):
+def class HybridCar(Car,ElectricCar):
     def __init__(self, model_name):
         self.model_name = model_name
         Car.stop(self)
