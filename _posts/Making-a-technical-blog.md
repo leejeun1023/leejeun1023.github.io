@@ -6,7 +6,7 @@ categories: Data_science
 permalink: /archivers/python_lecture_02
 ---
 
-# 2018-10-02-Making-a-technical-blog.md
+# Making-a-technical-blog.md
 
 ## 블로그 만드는 법 
 
