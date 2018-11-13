@@ -6,7 +6,7 @@ categories: Data_science
 permalink: /archivers/python_lecture_08
 ---
 # HybridCar.md
-## 가솔린 자동차
+    #가솔린 자동차
     def class Car:
         def __init__(self, model_name):
             self.model_name = model_name
@@ -21,7 +21,7 @@ permalink: /archivers/python_lecture_08
         def get_model_name(self):
             print self.model_name + "is driving."
 
-## 전기 자동차        
+    # 전기 자동차        
     def class ElectricCar:
         def __init__(self, model_name):
             self.model_name = model_name  
@@ -36,7 +36,7 @@ permalink: /archivers/python_lecture_08
         def get_model_name(self):
             print self.model_name + "is driving."
         
-## 하이브리드 자동차     
+    # 하이브리드 자동차     
     def class HybridCar(Car,ElectricCar):
         def __init__(self, model_name):
             self.model_name = model_name
