@@ -6,7 +6,8 @@ categories: Data_science
 permalink: /archivers/python_lecture_06
 ---
 # vending_machine_solution.md 
-<img src="https://user-images.githubusercontent.com/42957461/48409401-155bca00-e77f-11e8-940a-bb51b1be2b71.png"></img>
+![15616](https://user-images.githubusercontent.com/42957461/48409401-155bca00-e77f-11e8-940a-bb51b1be2b71.png)
+
 
 물건 수급 - 판매중 상태에서 관리자 모드를 활성화 시키는 코드를 입력하면 문이 열린다.
 
