@@ -53,5 +53,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
 [helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
 [jekyll]: http://jekyllrb.com/
-
-<img src="https://blogfiles.pstatic.net/MjAxODExMTNfMTc0/MDAxNTQyMDk2Nzk5ODA1.myvdmofDAXjb7K9AI4gOrXOPZkph3934E_ujyqS_8hIg.p7gjaALL9rtgqc_YWWMqQUKoa3GFIsoTzQhdNpkoEpUg.PNG.happiestime7/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C415.png" width="90%"></img>
