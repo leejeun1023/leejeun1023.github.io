@@ -1,5 +1,11 @@
-
-# 자판기 
+---
+layout: post
+title:  "자판기 만들기"
+date:   2018-11-13 16:09:13
+categories: Data_science
+permalink: /archivers/python_lecture_07
+---
+# vending_machine_solution.md 
     # 물건 수급 - 판매중 상태에서 관리자 모드를 활성화 시키는 코드를 입력하면 문이 열린다.
     # 관리자 모드 - 관리자는 물품을 선택하고 해당 물품의 숫자를 보충할 수 있다. 
     # 여기에서 10개가 넘으면 저장공간이 꽉 찼다는 메세지를 보낸다. 
