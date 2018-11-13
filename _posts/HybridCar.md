@@ -8,16 +8,12 @@ categories: Data_science
 class Car:
     def __init__(self, model_name):
         self.model_name = model_name
-    #  정차시 
     def stop(self):
-        print "Engine stop"
-    #  출발 및 가속시    
+        print "Engine stop"   
     def start_and_speed_up(self):
         print "Engine run"
-    # 정속주행시
     def fixed_speed(self):
         print "Drive"   
-    # 감속시
     def speed_down(self):
         print "Break"
     def get_model_name(self):
@@ -27,16 +23,12 @@ class Car:
 class ElectricCar:
     def __init__(self, model_name):
         self.model_name = model_name  
-    #  정차시 
     def stop(self):
         print "Motor stop"
-    # 출발 및 가속시
     def start_and_speed_up(self):
         print "Motor run"
-    # 정속주행시
     def fixed_speed(self):
         print "Drive."
-    # 감속시
     def speed_down(self):
         print "Break and Battery charge"
     def get_model_name(self):
@@ -46,23 +38,19 @@ class ElectricCar:
 class HybridCar(Car,ElectricCar):
     def __init__(self, model_name):
         self.model_name = model_name
-        #  정차시 
         Car.stop(self)
         ElectricCar.stop(self)
-        # 출발 및 가속시
         Car.start_and_speed_up(self)
         ElectricCar.start_and_speed_up(self)
-        # 정속주행시
         Car.fixed_speed(self)
         ElectricCar.fixed_speed(self)
-        # 감속시
         Car.speed_down(self)
         ElectricCar.speed_down(self)  
     def get_model_name(self):
         print self.model_name + "is driving."
 
 def main():
-    print "메인함수입니다."
+    print "메인함수 입니다."
     car_1 = Car("GasolineCar_1")  
     car_1.get_model_name()
     car_1.stop()
