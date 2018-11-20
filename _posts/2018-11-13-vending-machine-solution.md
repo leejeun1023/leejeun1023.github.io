@@ -5,7 +5,8 @@ date:   2018-11-13 16:09:13
 categories: Data_science
 permalink: /archivers/python_lecture_06
 ---
-# 자판기 
+# 자판기 만들기
+
 ![15616](https://user-images.githubusercontent.com/42957461/48409401-155bca00-e77f-11e8-940a-bb51b1be2b71.png)
 
 
