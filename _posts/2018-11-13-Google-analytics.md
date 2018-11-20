@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "구글 애널리틱스 적용하기.md"
+title:  "Google-analytics"
 date:   2018-10-02 16:09:13
 categories: Data_science
 ---
